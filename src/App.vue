@@ -20,11 +20,11 @@ import 'flowbite';
             </div>
             <div class="hidden justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
                 <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
-                    <li>
+                    <!-- <li>
                         <RouterLink to="/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-700 hover:bg-gray-50 focus:outline-none focus:text-gray-700 focus:bg-gray-50 transition duration-150 ease-in-out">For takrorlanuvchi operatori</RouterLink>
-                    </li>
+                    </li> -->
                     <li>
-                        <RouterLink to="/if" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-700 hover:bg-gray-50 focus:outline-none focus:text-gray-700 focus:bg-gray-50 transition duration-150 ease-in-out">If shart operatori</RouterLink>
+                        <RouterLink to="/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-700 hover:bg-gray-50 focus:outline-none focus:text-gray-700 focus:bg-gray-50 transition duration-150 ease-in-out">If shart operatori</RouterLink>
                     </li>
                     <li>
                         <RouterLink to="/begin" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 hover:text-gray-700 hover:bg-gray-50 focus:outline-none focus:text-gray-700 focus:bg-gray-50 transition duration-150 ease-in-out">Begin</RouterLink>

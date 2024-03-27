@@ -4,13 +4,13 @@ import For from '../views/for.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
+    // {
+    //   path: '/',
+    //   name: 'for',
+    //   component: For
+    // },
     {
       path: '/',
-      name: 'for',
-      component: For
-    },
-    {
-      path: '/if',
       name: 'If',
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
