@@ -129,8 +129,8 @@ const S = () => {
                     timer: 1500
                 });
                 mul.value = `${C.value}`
-                a2.value = B.value
-                b2.value = A.value
+                a2.value = A.value
+                b2.value = B.value
                 c2.value = C.value
             }
         }
@@ -156,8 +156,8 @@ const S = () => {
                     timer: 1500
                 });
                 mul.value = `${C.value}`
-                a2.value = B.value
-                b2.value = A.value
+                a2.value = A.value
+                b2.value = B.value
                 c2.value = C.value
             }
         }
